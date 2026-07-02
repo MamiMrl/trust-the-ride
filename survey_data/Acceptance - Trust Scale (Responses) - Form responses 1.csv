@@ -1,0 +1,55 @@
+Timestamp,Participant ID,Choose the Experiment Condition,Personality Trait,I find such a system...,,,,,,,,,I trust that the autonomous vehicle will operate safely and effectively under various conditions [Please click one that applies]
+18/06/2024 10:50:14,1,A,High Openness - Low Neuroticism,1,1,5,1,1,5,1,5,2,Agree
+18/06/2024 10:59:47,1,C,High Openness - Low Neuroticism,1,1,5,1,1,5,1,5,3,Agree
+18/06/2024 11:20:39,2,A,High Openness - Low Neuroticism,1,1,5,1,1,5,1,5,1,Agree
+18/06/2024 11:29:09,2,C,High Openness - Low Neuroticism,1,1,5,1,1,5,1,5,1,Agree
+18/06/2024 11:50:40,3,A,High Neuroticism - Low Openness,1,2,4,2,2,5,2,5,2,Agree
+18/06/2024 12:00:11,3,B,High Neuroticism - Low Openness,1,2,5,2,2,4,2,4,2,Agree
+18/06/2024 13:34:50,4,A,High Neuroticism - Low Openness,3,3,3,2,3,4,1,4,1,Agree
+18/06/2024 13:46:45,4,C,High Neuroticism - Low Openness,3,2,3,3,3,4,2,3,3,Agree
+18/06/2024 14:21:14,5,A,High Neuroticism - Low Openness,3,3,3,3,2,2,3,3,3,Neutral
+18/06/2024 14:34:38,5,B,High Neuroticism - Low Openness,3,4,3,3,4,2,4,3,3,Neutral
+18/06/2024 15:11:37,6,A,High Neuroticism - Low Openness,2,3,4,3,4,4,2,2,3,Strongly Disagree
+18/06/2024 15:23:20,6,C,High Neuroticism - Low Openness,2,4,2,4,4,2,4,3,3,Agree
+18/06/2024 15:48:53,7,A,High Openness - Low Neuroticism,2,2,5,2,1,4,1,5,2,Agree
+18/06/2024 15:57:35,7,B,High Openness - Low Neuroticism,2,2,5,1,2,5,2,4,4,Agree
+18/06/2024 16:33:53,8,A,High Openness - Low Neuroticism,1,2,5,1,1,5,1,4,1,Strongly Agree
+18/06/2024 16:43:31,8,C,High Openness - Low Neuroticism,2,2,5,2,2,5,2,4,2,Agree
+19/06/2024 13:45:42,9,A,High Neuroticism - Low Openness,1,1,5,1,5,5,1,5,4,Agree
+19/06/2024 13:55:41,9,B,High Neuroticism - Low Openness,2,3,3,3,4,4,2,4,4,Agree
+19/06/2024 14:27:06,10,A,High Openness - Low Neuroticism,1,1,4,2,1,4,2,5,3,Strongly Agree
+19/06/2024 14:36:38,10,C,High Openness - Low Neuroticism,1,2,4,1,1,4,1,5,3,Strongly Agree
+19/06/2024 14:49:57,11,A,High Openness - Low Neuroticism,2,3,4,2,4,4,3,4,2,Agree
+19/06/2024 14:58:08,11,B,High Openness - Low Neuroticism,5,4,2,4,4,2,4,2,4,Strongly Disagree
+19/06/2024 15:21:03,13,A,High Openness - Low Neuroticism,2,4,2,4,4,2,3,4,2,Disagree
+19/06/2024 15:31:04,12,C,High Openness - Low Neuroticism,2,4,2,4,4,2,2,4,2,Disagree
+19/06/2024 16:38:18,14,A,High Neuroticism - Low Openness,1,4,4,1,2,4,1,4,2,Agree
+19/06/2024 16:47:29,14,C,High Neuroticism - Low Openness,1,2,5,2,2,4,2,5,2,Strongly Agree
+20/06/2024 09:54:01,15,A,High Neuroticism - Low Openness,1,2,5,1,1,5,2,4,2,Agree
+20/06/2024 10:06:38,15,B,High Neuroticism - Low Openness,4,5,2,4,3,1,5,1,1,Disagree
+20/06/2024 10:55:44,16,A,High Openness - Low Neuroticism,2,1,4,2,2,4,2,4,1,Agree
+20/06/2024 11:05:19,16,C,High Openness - Low Neuroticism,2,1,4,1,2,5,2,4,1,Agree
+20/06/2024 11:52:34,17,A,High Neuroticism - Low Openness,1,2,5,2,2,4,2,5,2,Strongly Disagree
+20/06/2024 12:00:32,17,B,High Neuroticism - Low Openness,5,4,1,5,3,2,4,4,5,Strongly Disagree
+20/06/2024 14:00:38,18,A,High Openness - Low Neuroticism,1,2,5,1,4,4,2,4,3,Neutral
+20/06/2024 14:11:08,18,C,High Openness - Low Neuroticism,1,2,5,1,1,5,2,4,3,Agree
+20/06/2024 15:48:15,12,B,High Openness - Low Neuroticism,4,4,3,4,4,3,4,2,4,Agree
+20/06/2024 15:55:39,19,A,High Neuroticism - Low Openness,2,3,4,2,3,4,2,4,2,Disagree
+20/06/2024 16:06:54,19,B,High Neuroticism - Low Openness,3,3,4,2,2,4,4,3,4,Neutral
+21/06/2024 01:04:44,13,B,High Neuroticism - Low Openness,5,4,2,4,4,2,4,2,2,Disagree
+21/06/2024 10:48:40,20,A,High Openness - Low Neuroticism,1,2,5,2,4,4,2,4,3,Strongly Agree
+21/06/2024 10:56:06,20,C,High Openness - Low Neuroticism,1,1,2,2,4,2,2,3,3,Strongly Agree
+21/06/2024 11:18:27,21,A,High Neuroticism - Low Openness,1,1,4,2,1,4,1,5,3,Strongly Agree
+21/06/2024 11:26:31,21,B,High Neuroticism - Low Openness,1,1,5,1,1,5,1,5,4,Agree
+21/06/2024 11:58:00,22,A,High Neuroticism - Low Openness,2,2,4,1,2,5,1,5,2,Agree
+21/06/2024 12:09:58,22,C,High Neuroticism - Low Openness,4,4,4,3,3,4,4,3,4,Agree
+21/06/2024 12:23:08,23,A,High Openness - Low Neuroticism,1,1,5,1,1,5,1,5,1,Strongly Agree
+21/06/2024 12:31:53,23,B,High Openness - Low Neuroticism,1,1,5,1,1,5,1,5,2,Strongly Agree
+21/06/2024 13:59:44,24,A,High Openness - Low Neuroticism,1,1,5,1,1,5,1,5,3,Agree
+21/06/2024 14:08:34,24,C,High Openness - Low Neuroticism,1,1,5,1,1,5,1,5,3,Agree
+21/06/2024 14:24:55,25,A,High Neuroticism - Low Openness,2,1,4,2,4,4,4,3,2,Disagree
+21/06/2024 14:36:25,25,B,High Neuroticism - Low Openness,4,4,3,3,4,2,3,3,5,Disagree
+21/06/2024 14:51:23,26,A,High Neuroticism - Low Openness,1,1,5,1,2,5,1,5,3,Agree
+21/06/2024 15:06:03,26,C,High Neuroticism - Low Openness,5,4,2,4,4,4,4,3,5,Strongly Disagree
+21/06/2024 15:49:30,27,A,High Neuroticism - Low Openness,2,2,4,2,2,3,2,3,2,Neutral
+21/06/2024 15:58:49,27,B,High Neuroticism - Low Openness,4,4,2,3,3,2,4,2,4,Disagree
