@@ -11,6 +11,15 @@ MSc thesis by Muhammed Maral (User Experience Design & Management).
 - **Measures:** UEQ-s (8-item), de Waard Acceptance Scale, slider interaction logs
 - **Key finding:** The Functional UI significantly outperforms No UI on acceptance; the Placebo UI is not significantly different from the Functional UI, suggesting a possible placebo effect.
 
+## ML results (thesis §4.7)
+
+Regression models predicting driving-style preferences from participant data (27 rows × 97 columns):
+
+- **Random Forest Regressor:** best on Acceleration (R² = 0.65, MSE = 0.45) and Overtake (R² = 0.63, MSE = 0.09); moderate on Speed (R² = 0.32) and Steer Trq (R² = 0.26); poor on Lane Offset (R² = 0.11) and Consider Overtake (R² = 0.06)
+- **Support Vector Regressor:** negative mean CV R² on all targets (e.g., Acceleration −0.15, Deceleration −3.83) — unable to generalize on this small dataset
+
+The regression code is in the thesis PDF appendix; this repo's `Classification_Thesis_ML.ipynb` is a separate classification pipeline (accuracy/F1, not R²).
+
 ## Repository structure
 
 | Folder | Contents |
